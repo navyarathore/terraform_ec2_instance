@@ -2,7 +2,7 @@
 
 ## Overview
 This project contains Terraform configuration to deploy an Ubuntu EC2 instance on AWS with customizable parameters.
-This is the task 1 as a part of my DevOps specialization coursework.
+This is task 1 as a part of my DevOps specialization coursework.
 
 ## Project Structure
 
